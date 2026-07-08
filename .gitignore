@@ -1,3 +1,7 @@
+# Docs (keep local only)
+PRESENTATION_SCRIPT.md
+BRD_Telecom_Call_Charge_Calculator.md
+
 # Backend
 backend/target/
 backend/telecom-data/
